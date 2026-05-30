@@ -16,6 +16,7 @@ namespace GitTest
             Console.WriteLine(	"new branch");
             Console.WriteLine(	"new branch1");
 
-        }
+			Console.WriteLine("First Branch Test");
+		}
 	}
 }
